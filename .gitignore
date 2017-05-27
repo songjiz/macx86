@@ -1,0 +1,4 @@
+*.pkg
+*.dmg
+.keep
+.DS_Store
